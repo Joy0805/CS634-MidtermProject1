@@ -4,7 +4,7 @@ This is a python script used to solve the Titanic price prediction problem provi
 
 ## Required Packages
 - numpy
-- panadas
+- pandas
 - seaborn
 - scipy
 - sklearn
@@ -12,15 +12,11 @@ This is a python script used to solve the Titanic price prediction problem provi
 ## Important Variables Explanation
 - train : raw training set
 - test : raw test set
-- SalePrice : SalePrice 
+- Survived : Survived 
 - full : new data set combined with training set and test set
-- skew_features : skewness values of all numeric features
 - final_train : training set after preprocessing
 - final_test : test set after preprocessing
 - alphas_alt : Alternative parameter for ridge regression model
-- alphas2 : Alternative parameter for lasso regression model
-- e_alphas : Alternative parameter for elastic net model
-- e_l1ratio : Alternative parameter for elastic net model
 - result1 : prediction result calculated by ridge regression model
 - result2 : prediction result calculated by lasso regression model
 - result3 : prediction result calculated by elastic net model
