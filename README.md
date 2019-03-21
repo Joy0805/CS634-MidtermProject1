@@ -1,6 +1,6 @@
 # Titanic: Machine Learning from Disaster Project
 
-This is a python script used to solve the Titanic price prediction problem provided from [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+This is a python script used to solve the Titanic disaster project provided from https://www.kaggle.com/c/titanic
 
 ## Required Packages
 - numpy
@@ -9,21 +9,26 @@ This is a python script used to solve the Titanic price prediction problem provi
 - scipy
 - sklearn
 
+## File Explanation
+- train.train.csv ：raw training data set
+- test.csv ：raw test data set
+- Project2.ipynb ：main program
+- submissiondt.csv ：decision tree result
+- submissionlg.csv ：logistic regression result
+- submissionper.csv ：perceptron result
+- submissionrf.csv ：random forest result
+
 ## Important Variables Explanation
 - train : raw training set
 - test : raw test set
 - Survived : Survived 
 - full : new data set combined with training set and test set
+- final: new data set combined with training set and test set and selected features removed
 - final_train : training set after preprocessing
 - final_test : test set after preprOurocessing
 - result1 : prediction result calculated by ridge regression model
 - result2 : prediction result calculated by lasso regression model
 - result3 : prediction result calculated by elastic net model
-
-## How to run it
-```
-abcdefghijk
-```
 
 
 ## Partial Results Display
