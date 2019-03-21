@@ -1,8 +1,8 @@
-#House Prices Prediction Project#
+# House Prices Prediction Project
 
 This is a python script used to solve the house price prediction problem provided from [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-##Required Packages##
+## Required Packages
 - numpy
 - panadas
 - seaborn
