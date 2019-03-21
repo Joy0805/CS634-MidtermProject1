@@ -24,11 +24,13 @@ This is a python script used to solve the Titanic disaster project provided from
 - Survived : Survived 
 - full : new data set combined with training set and test set
 - final: new data set combined with training set and test set and selected features removed
-- final_train : training set after preprocessing
-- final_test : test set after preprOurocessing
-- result1 : prediction result calculated by ridge regression model
-- result2 : prediction result calculated by lasso regression model
-- result3 : prediction result calculated by elastic net model
+- x_train : training set after preprocessing
+- y_train : actual result of training set
+- x_test : test set after preprocessing
+- dt_pred : prediction result calculated by decision tree model
+- lg_pred : prediction result calculated by logistic regression model
+- per_pred : prediction result calculated by perceptron  model
+- rf_pred : prediction result calculated by random forest model
 
 
 ## Partial Results Display
