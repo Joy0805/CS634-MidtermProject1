@@ -60,3 +60,11 @@ This is a python script used to solve the Titanic disaster project provided from
 ## Reference
 This project is based on Kaggle notebook created by Manav Sehgal, Titanic Data Science Solutions. 
 URL: https://www.kaggle.com/startupsci/titanic-data-science-solutions
+
+## Current Kaggle Public Leaderboard Rank
+
+|#    |Team Name    |Score    |
+|-----|-------------|---------|
+| 825 | Joy Gao.    | 0.80861 |
+
+Score was calculated by Categorization Accuracy.
