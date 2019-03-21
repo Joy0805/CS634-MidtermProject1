@@ -1,6 +1,6 @@
-# House Prices Prediction Project
+# Titanic: Machine Learning from Disaster Project
 
-This is a python script used to solve the house price prediction problem provided from [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+This is a python script used to solve the Titanic price prediction problem provided from [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## Required Packages
 - numpy
@@ -9,7 +9,7 @@ This is a python script used to solve the house price prediction problem provide
 - scipy
 - sklearn
 
-##Important Variables Explanation##
+## Important Variables Explanation
 - train : raw training set
 - test : raw test set
 - SalePrice : SalePrice 
@@ -25,12 +25,12 @@ This is a python script used to solve the house price prediction problem provide
 - result2 : prediction result calculated by lasso regression model
 - result3 : prediction result calculated by elastic net model
 
-##How to run it##
+## How to run it
 ```
 abcdefghijk
 ```
 
-##Partial Results Display##
+## Partial Results Display
 
 |Id   |SalePrice          |
 |-----|-------------------|
