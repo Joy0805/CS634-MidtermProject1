@@ -15,7 +15,7 @@ This is a python script used to solve the Titanic price prediction problem provi
 - Survived : Survived 
 - full : new data set combined with training set and test set
 - final_train : training set after preprocessing
-- final_test : test set after preprocessing
+- final_test : test set after preprOurocessing
 - result1 : prediction result calculated by ridge regression model
 - result2 : prediction result calculated by lasso regression model
 - result3 : prediction result calculated by elastic net model
@@ -51,5 +51,5 @@ abcdefghijk
 |1479 |305541.21533308405 |
 
 ## Reference
-Our code is 
-- https://www.kaggle.com/startupsci/titanic-data-science-solutions
+This project is based on Kaggle notebook created by Manav Sehgal, Titanic Data Science Solutions. 
+URL: https://www.kaggle.com/startupsci/titanic-data-science-solutions
