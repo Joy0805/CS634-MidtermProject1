@@ -16,7 +16,6 @@ This is a python script used to solve the Titanic price prediction problem provi
 - full : new data set combined with training set and test set
 - final_train : training set after preprocessing
 - final_test : test set after preprocessing
-- alphas_alt : Alternative parameter for ridge regression model
 - result1 : prediction result calculated by ridge regression model
 - result2 : prediction result calculated by lasso regression model
 - result3 : prediction result calculated by elastic net model
@@ -25,6 +24,7 @@ This is a python script used to solve the Titanic price prediction problem provi
 ```
 abcdefghijk
 ```
+
 
 ## Partial Results Display
 
@@ -49,3 +49,7 @@ abcdefghijk
 |1477 |246213.34437531425 |
 |1478 |301600.4487908311  |
 |1479 |305541.21533308405 |
+
+## Reference
+Our code is 
+- https://www.kaggle.com/startupsci/titanic-data-science-solutions
