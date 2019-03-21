@@ -1,14 +1,15 @@
-#House Prices Prediction Project
+#House Prices Prediction Project#
+
 This is a python script used to solve the house price prediction problem provided from [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-##Required Packages
+##Required Packages##
 - numpy
 - panadas
 - seaborn
 - scipy
 - sklearn
 
-##Important Variables Explanation
+##Important Variables Explanation##
 - train : raw training set
 - test : raw test set
 - SalePrice : SalePrice 
@@ -24,12 +25,12 @@ This is a python script used to solve the house price prediction problem provide
 - result2 : prediction result calculated by lasso regression model
 - result3 : prediction result calculated by elastic net model
 
-##How to run it
+##How to run it##
 ```
 abcdefghijk
 ```
 
-##Partial Results Display
+##Partial Results Display##
 
 |Id   |SalePrice          |
 |-----|-------------------|
