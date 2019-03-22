@@ -1,12 +1,11 @@
 # Titanic: Machine Learning from Disaster Project
 
-This is a python script used to solve the Titanic disaster project provided from https://www.kaggle.com/c/titanic
+This is a python script used to solve the Titanic disaster project provided in https://www.kaggle.com/c/titanic
 
 ## Required Packages
 - numpy
 - pandas
 - seaborn
-- scipy
 - sklearn
 
 ## How to run it
