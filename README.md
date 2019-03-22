@@ -11,7 +11,10 @@ This is a python script used to solve the Titanic disaster project provided from
 
 ## How to run it
 ```
-You can use either Jupyter Notebook or Colab. If you are using Jupyter Notebook, note that when exporting data to csv files, remember to change the path. If you are using Colab, you can uncomment the code at the end, and download csv files. 
+You can use either Jupyter Notebook or Colab. 
+We used raw data path in GitHub, so you do not need to download train.csv or test.csv. 
+If you are using Jupyter Notebook, note that when exporting data to csv files, remember to change the path. 
+If you are using Colab, you can uncomment the code at the end, and download csv files. 
 ```
 
 ## File Explanation
