@@ -17,7 +17,7 @@ If you are using Colab, you can uncomment the code at the end, and download csv 
 ```
 
 ## File Explanation
-- train.train.csv ：raw training data set
+- train.csv ：raw training data set
 - test.csv ：raw test data set
 - Project2.ipynb ：main program
 - submissiondt.csv ：decision tree result
