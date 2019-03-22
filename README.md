@@ -68,4 +68,5 @@ Score was calculated by Categorization Accuracy.
 
 ## Reference
 This project is based on Kaggle notebook created by Manav Sehgal, Titanic Data Science Solutions. 
+
 URL: https://www.kaggle.com/startupsci/titanic-data-science-solutions
